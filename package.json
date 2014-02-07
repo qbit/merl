@@ -1,0 +1,23 @@
+{
+  "name": "merl",
+  "version": "0.0.1",
+  "description": "System Monitoring Application",
+  "main": "''",
+  "scripts": {
+    "test": "tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/qbit/merl.git"
+  },
+  "keywords": [
+    "system",
+    "monitoring"
+  ],
+  "author": "Aaron Bieber <deftly@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/qbit/merl/issues"
+  },
+  "homepage": "https://github.com/qbit/merl"
+}
